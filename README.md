@@ -42,14 +42,3 @@ Please install these dependencies using pip:
 ```shell
 pip install openai youtube_transcript_api pytube transformers tqdm markdown weasyprint
 ```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
----
-
-Hope this helps! Feel free to modify it to suit your needs.
